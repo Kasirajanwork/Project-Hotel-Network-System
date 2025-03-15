@@ -5,7 +5,7 @@ This project showcases the **network design and implementation** for  a Hotel, w
 
 The network setup involves **VLAN segmentation**, **router interconnections**, **OSPF routing**, and **dynamic IP allocation**. Secure remote access via **SSH** and **port security** measures are implemented for added security.
 
-<img src= "https://github.com/kasirajanwork/Project-Hotel-Network-System/blob/main/hotel-network.png">
+<img src= "https://github.com/kasirajanwork/Project-Hotel-Network-System/blob/main/hotel-network.PNG">
 
 ## Case Study and Requirements
 
